@@ -5,7 +5,7 @@ Here is my APCS website.
 a bit about me: hello! my name is unice, i am 16 years old and i love to travel. because of my mom's job as a pianist along with my brother and I's musical learnings, we have been lucky enough to travel to many different places because of musical opportunities. i hope you enjoy this mini diary of it! 
 <h2>this summer</h2>
 [here's a picture!](https://user-images.githubusercontent.com/114502822/193302090-965a2169-3747-4405-89f5-8792cd6e8a56.JPG "europe")! 
-![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
+
 europe!! this was one of the best experiences. i have been there before, all for a music program that my mom teaches. we went to the program again this year; it was so nice to reunite with everyone and play music there. 
 
 <strong>i even filmed the experience
