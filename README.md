@@ -13,4 +13,4 @@ europe!! this was one of the best experiences. i have been there before, all for
 <h3>2019</h3>
 ![IMG_4469](apcs/IMG_4469.JPG)
 
-like we all know, COVID took the world by storm in 2020. so, 2019 was the last time that i did a LOT of travelling which i'm so grateful for! 
+like we all know, COVID took the world by storm in 2020. so, 2019 was the last time that i did a LOT of travelling which i'm so grateful for! here is a picture from one of my trips of that year, one to new york because of a music competition recital! 
