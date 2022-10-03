@@ -4,7 +4,7 @@ Here is my APCS website.
 <h1>welcome to my travel diary website!</h1>
 a bit about me: hello! my name is unice, i am 16 years old and i love to travel. because of my mom's job as a pianist along with my brother and I's musical learnings, we have been lucky enough to travel to many different places because of musical opportunities. i hope you enjoy this mini diary of it! 
 <h2>this summer</h2>
-![IMG_2063](file:///Users/uniceliu/Downloads/IMG_2063.JPG)
+![IMG_2063](IMG_2063.JPG)
 
 europe!! this was one of the best experiences. i have been there before, all for a music program that my mom teaches. we went to the program again this year; it was so nice to reunite with everyone and play music there. 
 
